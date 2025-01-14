@@ -1,9 +1,18 @@
 # SQL_queries
 
-A selection of queries that involve joining tables, subqueries, and CTEs.
+A selection of SQL queries used to analyze data from a fictionalized company Rockbuster Stealth LLC. 
 
-The project the queries were performed on data of a fictionalized company Rockbuster Stealth LLC. It is a movie rental company that used to have stores around the
-world but not are transitioning to online video rentals. The goal of the project was looking at the data, analyzing it, and presenting the results to the company's board.
+# Objective
 
-Data: <a href="http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip">Click here</a> 
-Tableau vizz: <a href="https://public.tableau.com/shared/9ZC4P6YNW?:display_count=n&:origin=viz_share_link">Click here</a> 
+Rockbuster Stealth LLC is a movie rental company that used to have stores around the world but now are transitioning to online video rentals. The project's goal was to look at the data, analyze it, and present the results to the company's board.
+
+# Data
+
+[Project's data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+[Project's Data Dictionary](https://drive.google.com/file/d/1ahSEwO7-ZlGMNOzHBnxVd6652yeysdbV/view?usp=drive_link)
+
+# Visualization
+
+The final results of the analysis were presented in a Tableau visualization.
+
+[Tableau](https://public.tableau.com/shared/9ZC4P6YNW?:display_count=n&:origin=viz_share_link)
