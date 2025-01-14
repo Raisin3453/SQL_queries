@@ -9,6 +9,7 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 # Data
 
 [Project's data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+
 [Project's Data Dictionary](https://drive.google.com/file/d/1ahSEwO7-ZlGMNOzHBnxVd6652yeysdbV/view?usp=drive_link)
 
 # Visualization
